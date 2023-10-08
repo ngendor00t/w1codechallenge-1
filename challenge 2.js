@@ -1,0 +1,1 @@
+let speed = speed < 70 ? "ok": "5km> 70 print demeritpoints"

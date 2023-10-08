@@ -1,20 +1,18 @@
 let netSalary = basicSalary-taxes {
     
-PAYE=
+basic salary (input)
+benefits (inputs)
 
+    function paye(input grossSalary){
+        if grossSalary (0>=24,000)
+        return 10 %
 
-NHIF=
-
-
-
-NSSF=
-
-
-
-
+    else if (input>=24,001 && input <=32,333)
+            return 25.0%
 
 
 
-
-}
+    else if (input>= 32,334 && input <= 5000,000)
+                return 30.0 %
+                
 

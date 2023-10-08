@@ -1,22 +1,31 @@
-  code..1  calculating studentsMarks 
- in the first code challenge its more of control flow ,finding marks of students with 
+  code..1  program for calculating studentsMarks 
+The first code challenge its more of control flow ,finding marks of students with 
  a specific input.
  i choose to use the if and else conditional statements, if the students didnt get the(A)
- then they got an other grade depending with the input 
-the if and  else work with conditons if the iput aligns with condition it returns a value or statements 
-   
+ then they got an other grade depending with the input. 
+The if and  else work with conditons if the iput aligns with condition it returns a value or statements 
 
-code..2 calculating speed
-The second code challenge is also a control flow questions asking the programmer to create a program  for calculating speed.
-i used a ternary operator to create the program since the options and conditions were only 2.
-if the speed is less than 70 then its okay ,otherwise above 70 it should print demeritpoint
+if input > 79
+return (A)
+else if (condition) which means otherwise if they didn't get the (A)
+
+code..2  calculating speed
+The second code challenge is also a control flow question asking the programmer to create a program  for calculating speed.
+i used a function  followed by a conditional statement to create the program since the options and conditions were only 2.
+if the speed is less than 70 then its "okay " ,otherwise above 70 it should print demeritpoint
+depending with excess divide by 5
+
+i.e
+if input <70
+return "ok"
+else if input > 70
+excess divide by 5
+return a demerit point
  
 
-let speed= speed< 70 ? "ok" : "5km>70 printdemirit point"
 
 
-
-code ..3 calculating netsalary
+code ..3  calculating netsalary
  
  this program calculate final salary (netsalary)after deduction from basic(gross)
  you should have basic salary so that after deducting taxes that is 
@@ -24,6 +33,16 @@ code ..3 calculating netsalary
  NHIF
  NSSF
 you can get net salary.
+1. first, you declare function paye 
+work with workflow
+either conditional statements
+2. second declare function NHIF
+use the same control flow
+similarly that should be done on NSSF
+
+//this code need alot of attention while working
+
+ 
 
 
 
